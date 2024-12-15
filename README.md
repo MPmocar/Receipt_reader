@@ -4,14 +4,14 @@ The tool written in Python is used to read text from grocery store receipts and 
 The project was created to speed up and automate the daily filling of my file used as input data for my household budget report in PowerBI.
 
 Libraries used:
--Pandas
--PIL
--pytesseract
--re
--os
--cv2
+Pandas,
+PIL,
+pytesseract,
+re,
+os,
+cv2,
 
-Example:
+Example
 
 Input:
 ![paragon auchan 20241207_IMG](https://github.com/user-attachments/assets/6ad36507-273d-4f20-a151-6a71bc28ce1a)
