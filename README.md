@@ -18,5 +18,5 @@ Input:
 ![auchan 20241206_IMG](https://github.com/user-attachments/assets/0d27ed3c-5749-494b-8597-0490b9d6b83b)
 
 Output:
-![image](https://github.com/user-attachments/assets/54a81c01-b561-42b4-8e7b-334b3a684535)
+![image](https://github.com/user-attachments/assets/b1dc4853-4693-4068-b9dc-a92244b330e6)
 
